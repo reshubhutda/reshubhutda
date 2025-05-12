@@ -7,20 +7,12 @@
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Reshu_B) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reshubhutra123@gmail.com) 
 
 <p align="left">
-<a href="https://linkedin.com/in/reshubhutda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reshubhutda" height="30" width="40" /></a>
-<a href="https://medium.com/@reshubhutda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@reshubhutda" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/reshubhutra123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="reshubhutra123" height="30" width="40" /></a>
-</p>
-
-
-<p align="left">
     <a href="https://linkedin.com/in/reshubhutda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reshubhutda" height="30" width="40" /></a>
     <a href="https://medium.com/@reshubhutda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@reshubhutda" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/reshubhutra123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="reshubhutra123" height="30" width="40" /></a>
     <a href="https://reddit.com/user/Reshu_B" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Reshu_B" height="30" width="40" /></a>
-    <a href="mailto:reshubhutra123@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="reshubhutra123@gmail.com" height="30" width="40" /></a>
+</a>
 </p>
-
 
 - 📫 How to reach me **reshubhutra123@gmail.com**
 - ⚡ Fun fact **Every time I see data, I hear money jingling.**
