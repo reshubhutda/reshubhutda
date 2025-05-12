@@ -11,7 +11,7 @@
 </p>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reshubhutda) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@reshubhutda) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Reshu_B) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reshubhutra123@gmail.com) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Reshu_B) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reshubhutra123@gmail.com) 
 
 - 📫 How to reach me **reshubhutra123@gmail.com**
 - ⚡ Fun fact **Every time I see data, I hear money jingling.**
