@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reshubhutda&label=Profile%20views&color=0e75b6&style=flat" alt="reshubhutda" /> </p>
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reshubhutra123@gmail.com) 
 <p align="left">
     <a href="https://linkedin.com/in/reshubhutda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reshubhutda" height="30" width="40" /></a>
     <a href="https://medium.com/@reshubhutda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@reshubhutda" height="30" width="40" /></a>
