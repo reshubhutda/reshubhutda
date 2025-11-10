@@ -18,18 +18,20 @@ At Amazon, I supported AI/ML workflows by automating data-annotation pipelines f
 <br>
 
 <hr style="height:1px;border:none;border-top:1px solid #444;">
-**Graduate Student – MS in Information Technology & Analytics | 2024**
+
+<h3 align="left">
+Graduate Student – MS in Information Technology & Analytics in Data Science & Analytics | 2024 - 2025
 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Rutgers_University_logo.svg/512px-Rutgers_University_logo.svg.png" alt="Rutgers University" width="130" style="margin-top:10px; margin-bottom:10px;">
 
-<p align="left">
-Completed my Master's in Information Technology & Analytics at Rutgers Business School with a focused track in Data Science & Analytics. My graduate work strengthened my foundations in data-driven reasoning, machine learning, analytical modeling, and applied problem-solving across real-world business use cases.
-</p>
+<h4 align="left">
+Completed my Master's in Information Technology & Analytics at Rutgers Business School with a focused track in Data Science & Analytics. My graduate work strengthened my foundations in data-driven reasoning, machine learning, data engineering, analytical modeling, and applied problem-solving across real-world business use cases.
+</h4>
 
 **Coursework:**  
-<p align="left">
+<h4 align="left">
 Data Mining • Data Analytics & Visualization • Business Analytics • Business Forecasting • Machine Learning • Neural Networks • Graph Neural Networks • Data Structures & Algorithms • Business Data Management
-</p>
+</h4>
 
 <br>
 
