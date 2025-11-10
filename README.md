@@ -6,8 +6,7 @@ I'm a Data Analyst passionate about transforming raw data into actionable insigh
 <hr style="height:1px;border:none;border-top:1px solid #444;">
 
 <h3 align="left">
-Data Associate | 2021 - 2023 <br>
-    
+Data Associate | 2021 - 2023 <br><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" width="90" style="vertical-align:middle; margin-right:10px;">  
 
 </h3>
