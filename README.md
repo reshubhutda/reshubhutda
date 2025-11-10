@@ -12,7 +12,7 @@ Data Associate | 2021 - 2023 <br><br>
 </h3>
 
 <h4 align="left">
-Previously at Amazon, I supported AI/ML workflows by automating data-annotation pipelines for AWS SageMaker and refining inputs for computer vision and NLP models. I collaborated with business teams and analysts to improve data quality, stabilize model development cycles, and strengthen deployment reliability through Bedrock-aligned initiatives and scalable AI systems.
+At Amazon, I supported AI/ML workflows by automating data-annotation pipelines for AWS SageMaker and refining inputs for computer vision and NLP models. I collaborated with business teams and analysts to improve data quality, stabilize model development cycles, and strengthen deployment reliability through Bedrock-aligned initiatives and scalable AI systems.
 </h4>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=reshubhutda&label=Profile%20views&color=0e75b6&style=flat" alt="reshubhutda" /> </p> -->
