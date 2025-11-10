@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reshu Bhutda</h1>
-<h3 align="center">Data Enthusiast using AI to solve real-world problems, based in NY.</h3>
+<h3 align="center">I'm a Data Analyst passionate about transforming raw data into actionable insights that solve real business problems. I love working at the intersection of AI, data science, and analytics to uncover patterns, improve decision-making, and drive measurable impact. My work blends technical execution with strategic thinking, ensuring models, analyses, and dashboards scale intelligently as business requirements evolve. I’m constantly exploring smarter ways to align data-driven solutions with real-world needs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reshubhutda&label=Profile%20views&color=0e75b6&style=flat" alt="reshubhutda" /> </p>
 
