@@ -5,7 +5,11 @@ I'm a Data Analyst passionate about transforming raw data into actionable insigh
 
 <hr style="height:1px;border:none;border-top:1px solid #444;">
 
-<h3 align="left">work Experience</h3>
+<h3 align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" width="90" style="vertical-align:middle; margin-right:10px;">  
+Amazon – Data Analyst
+</h3>
+
 <h4 align="left">
 Previously at Amazon, I supported AI/ML workflows by automating data-annotation pipelines for AWS SageMaker and refining inputs for computer vision and NLP models. I collaborated with business teams and analysts to improve data quality, stabilize model development cycles, and strengthen deployment reliability through Bedrock-aligned initiatives and scalable AI systems.
 </h4>
