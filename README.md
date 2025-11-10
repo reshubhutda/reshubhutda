@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Reshu Bhutda</h1>
+<h1 align="center">Hey there👋, I'm Reshu, Bhutda</h1>
 <h4 align="left">
 I'm a Data Analyst passionate about transforming raw data into actionable insights that solve real business problems. I work at the intersection of AI, data science, and analytics to uncover patterns, improve decision-making, and drive measurable impact. My approach blends technical execution with strategic thinking, ensuring analyses, models, and dashboards scale intelligently as business requirements evolve.
 </h4>
 
 <hr style="height:1px;border:none;border-top:1px solid #444;">
 
+<h2 align="left"> Work Experience </h2>
 <h3 align="left">
 Data Associate | 2021 - 2023 <br><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" width="90" style="vertical-align:middle; margin-right:10px;">  
@@ -19,8 +20,9 @@ At Amazon, I supported AI/ML workflows by automating data-annotation pipelines f
 
 <hr style="height:1px;border:none;border-top:1px solid #444;">
 
+<h2 align="left"> Education </h2>
 <h3 align="left">
-Graduate Student – MS in Information Technology & Analytics in Data Science & Analytics | 2024 - 2025
+MS in Information Technology & Analytics in Data Science & Analytics, Rutgers University | 2024 - 2025
 
 <h4 align="left">
 Completed my Master's in Information Technology & Analytics at Rutgers Business School with a focused track in Data Science & Analytics. My graduate work strengthened my foundations in data-driven reasoning, machine learning, data engineering, analytical modeling, and applied problem-solving across real-world business use cases.
