@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Reshu Bhutda</h1>
-<h4 align="left">I'm a Data Analyst passionate about transforming raw data into actionable insights that solve real business problems. I love working at the intersection of AI, data science, and analytics to uncover patterns, improve decision-making, and drive measurable impact. My work blends technical execution with strategic thinking, ensuring models, analyses, and dashboards scale intelligently as business requirements evolve. I’m constantly exploring smarter ways to align data-driven solutions with real-world needs.</h3>
-<p align="left">
-At Amazon, I supported AI/ML workflows by automating data-annotation pipelines for AWS SageMaker, refining model inputs, and improving dataset quality across computer vision and NLP tasks. I collaborated closely with business teams and data analysts to streamline model development cycles, enhance SageMaker deployment stability, and contribute to AWS Bedrock–aligned initiatives focused on scalable, production-ready AI solutions.
-</p>
+<h4 align="left">
+I'm a Data Analyst passionate about transforming raw data into actionable insights that solve real business problems. I work at the intersection of AI, data science, and analytics to uncover patterns, improve decision-making, and drive measurable impact. My approach blends technical execution with strategic thinking, ensuring analyses, models, and dashboards scale intelligently as business requirements evolve.
+</h4>
+
+<hr style="height:1px;border:none;border-top:1px solid #444;">
+
+<h4 align="left">
+Previously at Amazon, I supported AI/ML workflows by automating data-annotation pipelines for AWS SageMaker and refining inputs for computer vision and NLP models. I collaborated with business teams and analysts to improve data quality, stabilize model development cycles, and strengthen deployment reliability through Bedrock-aligned initiatives and scalable AI systems.
+</h4>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=reshubhutda&label=Profile%20views&color=0e75b6&style=flat" alt="reshubhutda" /> </p> -->
 
