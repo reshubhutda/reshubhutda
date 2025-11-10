@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Reshu Bhutda</h1>
-<h3 align="left">I'm a Data Analyst passionate about transforming raw data into actionable insights that solve real business problems. I love working at the intersection of AI, data science, and analytics to uncover patterns, improve decision-making, and drive measurable impact. My work blends technical execution with strategic thinking, ensuring models, analyses, and dashboards scale intelligently as business requirements evolve. I’m constantly exploring smarter ways to align data-driven solutions with real-world needs.</h3>
+<h4 align="left">I'm a Data Analyst passionate about transforming raw data into actionable insights that solve real business problems. I love working at the intersection of AI, data science, and analytics to uncover patterns, improve decision-making, and drive measurable impact. My work blends technical execution with strategic thinking, ensuring models, analyses, and dashboards scale intelligently as business requirements evolve. I’m constantly exploring smarter ways to align data-driven solutions with real-world needs.</h3>
+<p align="left">
+At Amazon, I supported AI/ML workflows by automating data-annotation pipelines for AWS SageMaker, refining model inputs, and improving dataset quality across computer vision and NLP tasks. I collaborated closely with business teams and data analysts to streamline model development cycles, enhance SageMaker deployment stability, and contribute to AWS Bedrock–aligned initiatives focused on scalable, production-ready AI solutions.
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reshubhutda&label=Profile%20views&color=0e75b6&style=flat" alt="reshubhutda" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=reshubhutda&label=Profile%20views&color=0e75b6&style=flat" alt="reshubhutda" /> </p> -->
 
 ## 🌐 Socials:
 <p align="left">
