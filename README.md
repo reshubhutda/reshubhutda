@@ -7,7 +7,8 @@ I'm a Data Analyst passionate about transforming raw data into actionable insigh
 
 <h3 align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" width="90" style="vertical-align:middle; margin-right:10px;">  
-Amazon – Data Analyst
+<br>
+Data Associate
 </h3>
 
 <h4 align="left">
