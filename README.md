@@ -1,6 +1,6 @@
 <h1 align="center">Hey there👋, I'm Reshu, Bhutda</h1>
 <h4 align="left">
-I'm a Data Analyst passionate about transforming raw data into actionable insights that solve real business problems. I work at the intersection of AI, data science, and analytics to uncover patterns, improve decision-making, and drive measurable impact. My approach blends technical execution with strategic thinking, ensuring analyses, models, and dashboards scale intelligently as business requirements evolve.
+I'm an AI Engineer who is passionate about working on data to extract actionable insights that solve real business problems. I work at the intersection of AI, data science, and analytics to uncover patterns, improve decision-making, and drive measurable impact. My approach blends technical execution with strategic thinking, ensuring analyses, models, and dashboards scale intelligently as business requirements evolve.
 </h4>
 
 <hr style="height:1px;border:none;border-top:1px solid #444;">
