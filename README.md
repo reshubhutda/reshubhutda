@@ -7,13 +7,37 @@ I'm a Data Analyst passionate about transforming raw data into actionable insigh
 
 <h2 align="left"> Work Experience </h2>
 <h3 align="left">
-Data Associate | 2021 - 2023 <br><br>
+Business Intelligence Data Analyst | 2026 - 2026 <br><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" width="90" style="vertical-align:middle; margin-right:10px;">  
 
 </h3>
 
 <h4 align="left">
-At Amazon, I supported AI/ML workflows by automating data-annotation pipelines for AWS SageMaker and refining inputs for computer vision and NLP models. I collaborated with business teams and analysts to improve data quality, stabilize model development cycles, and strengthen deployment reliability through Bedrock-aligned initiatives and scalable AI systems.
+At PGAM, I transformed business data into actionable insights through interactive dashboards, automated reporting solutions, and advanced analytics. By collaborating with stakeholders across teams, I helped improve operational visibility, support strategic decision-making, and drive data-informed business outcomes.
+</h4>
+
+<br>
+
+<h3 align="left">
+Digital Associate | 2021 - 2023 <br><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" width="90" style="vertical-align:middle; margin-right:10px;">  
+
+</h3>
+
+<h4 align="left">
+At Amazon, I supported AI/ML workflows by automating data operations pipelines for AWS teams and refining inputs for AWS Sagemaker models. I collaborated with business teams and analysts to improve data quality, stabilize model development cycles, and strengthen deployment reliability through Bedrock-aligned initiatives and scalable AI systems.
+</h4>
+
+<br>
+
+<h3 align="left">
+Business Data Analyst | 2020 - 2021 <br><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" width="90" style="vertical-align:middle; margin-right:10px;">  
+
+</h3>
+
+<h4 align="left">
+At S&H, I leveraged data analytics and predictive modeling to uncover business trends and support strategic decision-making. By analyzing large datasets and performance metrics, I helped identify growth opportunities and deliver actionable insights across business functions.
 </h4>
 
 <br>
